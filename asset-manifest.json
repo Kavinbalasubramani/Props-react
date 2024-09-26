@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Props-react/static/css/main.6ffc9bd0.css",
+    "main.js": "/Props-react/static/js/main.32f0326a.js",
+    "static/js/453.64105b0e.chunk.js": "/Props-react/static/js/453.64105b0e.chunk.js",
+    "static/media/boy2.png": "/Props-react/static/media/boy2.ad9a5c09d39350129909.png",
+    "static/media/boy.png": "/Props-react/static/media/boy.46b1a98a63451a380433.png",
+    "static/media/boy1.png": "/Props-react/static/media/boy1.0f7608f3c74d08262c2c.png",
+    "static/media/chat.png": "/Props-react/static/media/chat.3e8622472bcbde88b23e.png",
+    "index.html": "/Props-react/index.html",
+    "main.6ffc9bd0.css.map": "/Props-react/static/css/main.6ffc9bd0.css.map",
+    "main.32f0326a.js.map": "/Props-react/static/js/main.32f0326a.js.map",
+    "453.64105b0e.chunk.js.map": "/Props-react/static/js/453.64105b0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ffc9bd0.css",
+    "static/js/main.32f0326a.js"
+  ]
+}
