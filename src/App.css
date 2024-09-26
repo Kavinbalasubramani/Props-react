@@ -1,38 +1,73 @@
-.App {
+.App
+{
+  padding: 20px;
+}
+.color
+{
+  height: 80px;
+  width: auto;
+  /* background-color: pink; */
+}
+img
+{
+  height: 80px;
+  width: 80px;
+  border-radius: 40px;
+  border: 1px solid black;
+  position: absolute;
+  left: 60px;
+  top: 40px;
+  background-color: white;
+}
+
+.container
+{
+  height: 320px;
+  width: 200px;
+  border: 1px solid black;
+  position: relative;
+ 
+}
+.font
+{
   text-align: center;
+  line-height: 15px;
+  margin-top: 60px;
+  font-weight: 400;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.flex
+{
   display: flex;
-  flex-direction: column;
+  padding: 10px;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: space-around;
 }
-
-.App-link {
-  color: #61dafb;
+.flex .add{
+ height: 30px;
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  padding: 2px;
+ 
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.flex img
+{
+  height: 20px;
+  width: 30px;
+  margin-top: 245px;
+  margin-left: 75px;
+  border: none;
+  font-weight: bold;
+ 
+}
+.chatbox
+{
+  border: 1px;
+  padding: 30px 40px 0 10px;
+  border: 1px solid black;
+}
+ol
+{
+  display: flex;
+  justify-content: space-evenly;
 }
